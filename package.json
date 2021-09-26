@@ -1,0 +1,27 @@
+{
+  "name": "useful-helpers",
+  "version": "1.0.0",
+  "description": "npm package with commonly used helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorGreco/useful-helpers-js.git"
+  },
+  "keywords": [
+    "node",
+    "helpers",
+    "js"
+  ],
+  "author": "Victor Greco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VictorGreco/useful-helpers-js/issues"
+  },
+  "homepage": "https://github.com/VictorGreco/useful-helpers-js#readme",
+  "devDependencies": {
+    "jest": "^27.2.2"
+  }
+}
